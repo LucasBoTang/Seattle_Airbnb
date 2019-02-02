@@ -35,7 +35,7 @@ I chose Airbnb data in Boston and Seattle, and have the following three question
 
 ### Data
 
-The data about Airbnb in Boston and Seattle are downloaded from **Kaggle**:
+The data about Airbnb in Boston and Seattle can be downloaded from **Kaggle**:
 
 [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston)
 
