@@ -12,6 +12,7 @@
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
+- [SciPy](https://www.scipy.org/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
