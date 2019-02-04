@@ -5,9 +5,9 @@
 ### Table of Contents
 
 1. [Installation](#Installation)
-2. [Project Motivation](#Project Motivation)
+2. [Project Motivation](#Project-Motivation)
 3. [Data](#Data)
-4. [File Descriptions](#File Descriptions)
+4. [File Descriptions](#File-Descriptions)
 
 ### Install
 
