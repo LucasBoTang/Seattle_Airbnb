@@ -4,10 +4,10 @@
 
 ### Table of Contents
 
-1. [Installation](### Installation)
-2. [Project Motivation](### Project Motivation)
-3. [Data](### Data)
-4. [File Descriptions](### File Descriptions)
+1. [Installation](#Installation)
+2. [Project Motivation](#Project Motivation)
+3. [Data](#Data)
+4. [File Descriptions](#File Descriptions)
 
 ### Install
 
@@ -45,4 +45,4 @@ The data about Airbnb in Seattle can be downloaded from **Kaggle**:
 
 ### File Descriptions
 
-Jupyter Notebook [seattle_airbnb.ipynb](https://github.com/LucasBoTang/Project_Seattle_Airbnb/blob/master/seattle_airbnb.ipynb) works related to the above questions. 
+Jupyter Notebook ([seattle_airbnb.ipynb](https://github.com/LucasBoTang/Project_Seattle_Airbnb/blob/master/seattle_airbnb.ipynb)) works related to the above questions. 
