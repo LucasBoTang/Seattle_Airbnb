@@ -7,7 +7,7 @@
 1. [Installation](#Installation)
 2. [Project Motivation](#Project Motivation)
 3. [Data](#Data)
-4. [File Descriptions](# File Descriptions)
+4. [File Descriptions](#File Descriptions)
 
 ### Install
 
@@ -28,25 +28,21 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 
 > For this project, you will pick a dataset. Inspired by Robert, there are a few public datasets from AirBnB available below, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, you will choose 3 questions you aspire to answer from the data.
 
-I chose Airbnb data in Boston and Seattle, and have the following three questions:
+I chose Airbnb data in Seattle, and have the following three questions:
 
 - What is the seasonal pattern of Airbnb in Seattle?
 
 - What kinds of airbnb homes are popular?
 
-- What are the influencial features about the rental price?
+- What are the most influencial features about the rental price?
 
 ### Data
 
-The data about Airbnb in Boston and Seattle can be downloaded from **Kaggle**:
-
-[Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston)
+The data about Airbnb in Seattle can be downloaded from **Kaggle**:
 
 [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 
 
 ### File Descriptions
 
-**Identify_Customer_Segments.ipynb**
-
-Jupyter Notebook works related to the above questions. 
+[Jupyter Notebook](https://github.com/LucasBoTang/Project_Seattle_Airbnb/blob/master/seattle_airbnb.ipynb) works related to the above questions. 
