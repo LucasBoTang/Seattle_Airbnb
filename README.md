@@ -1,12 +1,13 @@
 # Data Scientist Nanodegree
 # Write A Data Science Blog Post
-## Project 4: Boston and Seattle Airbnb
+## Project 4: Seattle Airbnb
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [Data](#files)
+1. [Installation](#Installation)
+2. [Project Motivation](#Project Motivation)
+3. [Data](#Data)
+4. [File Descriptions](# File Descriptions)
 
 ### Install
 
@@ -29,9 +30,9 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 
 I chose Airbnb data in Boston and Seattle, and have the following three questions:
 
-- What is the seasonal pattern of Airbnb in Boston and Seattle?
+- What is the seasonal pattern of Airbnb in Seattle?
 
-- Is there any kinds of difference between Seattle and Boston Airbnb?
+- What kinds of airbnb homes are popular?
 
 - What are the influencial features about the rental price?
 
@@ -42,3 +43,10 @@ The data about Airbnb in Boston and Seattle can be downloaded from **Kaggle**:
 [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston)
 
 [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
+
+
+### File Descriptions
+
+**Identify_Customer_Segments.ipynb**
+
+Jupyter Notebook works related to the above questions. 
