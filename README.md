@@ -9,7 +9,7 @@
 3. [Data](#Data)
 4. [File Descriptions](#File-Descriptions)
 
-### Install
+### Installation
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
