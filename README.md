@@ -9,6 +9,7 @@
 3. [Data](#Data)
 4. [File Descriptions](#File-Descriptions)
 5. [Result] (#Result)
+6. [Blog](#Blog)
 
 ### Installation
 
@@ -27,15 +28,15 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 
 ### Project Motivation
 
-> For this project, you will pick a dataset. Inspired by Robert, there are a few public datasets from AirBnB available below, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, you will choose 3 questions you aspire to answer from the data.
+> For this project, you will pick a dataset. Inspired by Robert, there are a few public datasets from Airbnb available below, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, you will choose 3 questions you aspire to answer from the data.
 
 I chose Airbnb data in Seattle, and have the following three questions:
 
 - What is the seasonal pattern of Airbnb in Seattle?
 
-- What kinds of airbnb homes are popular?
+- What kinds of Airbnb homes are popular?
 
-- What are the most influencial features about the rental price?
+- What are the most influential features about the rental price?
 
 ### Data
 
@@ -50,8 +51,12 @@ Jupyter Notebook ([seattle_airbnb.ipynb](https://github.com/LucasBoTang/Project_
 
 ### Result
 
-- For seasonal pattern, it is weired to see the highest occupancy rate is in January 2016. Except January, Spring and summer are the busy season. They are the the best weather in Seattle. In that time, the rental prices are also higher.
+- Because of the weather, spring and summer are the busy season with higher rental price. But there still remains a question, why dose January have the highest occupancy rate?
 
-- Capital Hill is very popular, and Ballard is significantly unpopular. And more felxiable cancellation policy, more popular the rooms are.
+- Airbnb homes which have entertainment nearby, a soon response from host or flexible cancellation policy are more popular.
 
-- About rental price, the number of bedrooms and bathrooms, accomdates, neighborhoodand type of properties are the most influencial features.
+- About rental price, the number of bedrooms and bathrooms, neighborhood and type of properties play important roles.
+
+### Blog
+
+[What Seattle Airbnb Data Can Tell Us](https://medium.com/@lucastang1994/what-seattle-airbnb-data-can-tell-us-263fbff8581a)
