@@ -8,6 +8,7 @@
 2. [Project Motivation](#Project-Motivation)
 3. [Data](#Data)
 4. [File Descriptions](#File-Descriptions)
+5. [Result] (#Result)
 
 ### Installation
 
@@ -46,3 +47,11 @@ The data about Airbnb in Seattle can be downloaded from **Kaggle**:
 ### File Descriptions
 
 Jupyter Notebook ([seattle_airbnb.ipynb](https://github.com/LucasBoTang/Project_Seattle_Airbnb/blob/master/seattle_airbnb.ipynb)) works related to the above questions. 
+
+### Result
+
+- For seasonal pattern, it is weired to see the highest occupancy rate is in January 2016. Except January, Spring and summer are the busy season. They are the the best weather in Seattle. In that time, the rental prices are also higher.
+
+- Capital Hill is very popular, and Ballard is significantly unpopular. And more felxiable cancellation policy, more popular the rooms are.
+
+- About rental price, the number of bedrooms and bathrooms, accomdates, neighborhoodand type of properties are the most influencial features.
