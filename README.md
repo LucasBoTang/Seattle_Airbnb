@@ -8,7 +8,7 @@
 2. [Project Motivation](#Project-Motivation)
 3. [Data](#Data)
 4. [File Descriptions](#File-Descriptions)
-5. [Result] (#Result)
+5. [Result](#Result)
 6. [Blog](#Blog)
 
 ### Installation
